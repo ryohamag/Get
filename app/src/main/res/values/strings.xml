@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Get Out</string>
-    <string name="title_home">グラフ</string>
-    <string name="title_dashboard">カレンダー</string>
-    <string name="title_notifications">設定</string>
+    <string name="title_graph">グラフ</string>
+    <string name="title_calender">カレンダー</string>
+    <string name="title_settings">設定</string>
     <string name="month">月</string>
     <string name="week">週</string>
     <string name="day">日</string>
